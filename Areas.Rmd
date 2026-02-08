@@ -34,3 +34,12 @@ BaseRect <- 6
 AlturaRect <- 4
 AreaRectangulo <- BaseRect * AlturaRect
 ```
+# Área trapecio
+
+```{r}
+b <- 3
+B <- 5
+H <- 4
+AreaTrapecio <- (B + b) / 2 * H
+```
+
