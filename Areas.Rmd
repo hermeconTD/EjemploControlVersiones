@@ -27,3 +27,10 @@ BaseTri <- 5
 AlturaTri <- 4
 AreaTriangulo <- (BaseTri * AlturaTri) / 2
 ```
+# Área del rectángulo
+
+```{r}
+BaseRect <- 6
+AlturaRect <- 4
+AreaRectangulo <- BaseRect * AlturaRect
+```
